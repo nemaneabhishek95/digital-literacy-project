@@ -1,0 +1,18 @@
+Stay Safe Online – Prevention Checklist 
+
+* Never share your OTP or UPI PIN with anyone, even if they say they are from your bank or customer support. Genuine services will never ask for it.
+* Keep this in mind: you don’t need to enter your UPI PIN to receive money. If you’re entering a PIN, you are actually sending money.
+* Take a moment to check UPI requests carefully: before approving them, especially “Collect Request” notifications. Don’t rush.
+* Be careful with links you receive: on SMS, WhatsApp, or email. If something looks suspicious or asks for your details, it’s better not to click it.
+* Use strong, different passwords: for your accounts and turn on two-factor authentication (2FA) for extra security.
+* Download apps only from trusted sources: like the Google Play Store or Apple App Store to avoid fake or harmful apps.
+* Stay alert while buying or selling online: If someone is rushing you or offering deals that seem too good to be true, take a step back.
+* Don’t share personal details: like Aadhaar number, bank info, or passwords on unknown websites or with unverified people.
+* Always log out after using shared devices: and avoid checking important accounts on public computers or open Wi-Fi.
+* Keep an eye on your bank transactions regularly: and enable alerts so you can quickly spot anything unusual.
+
+Report Cybercrime Immediately
+ National Cyber Crime Portal: https://cybercrime.gov.in
+ Helpline Number: 1930
+
+
